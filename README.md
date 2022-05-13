@@ -1,0 +1,5 @@
+- 👋 Hi, my name is, what? my name is, who? my name is, chicka chicka @webmarkus.  Actually my name is Stephen. What's up?
+- 👀 I’m interested in networking, docker, home automation. All the homelab things.
+- 🌱 I’m currently learning ...Self-hosted VPN stuff.
+- 💞️ I’m looking to collaborate on ... I'm not. I'm but a simple hobbyist.
+- 📫 How to reach me ... stephen@markusweb.ca
